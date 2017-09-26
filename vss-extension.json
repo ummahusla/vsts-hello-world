@@ -4,7 +4,7 @@
 	"version": "0.1.0",
 	"name": "My first VSTS extension",
 	"description": "A sample Visual Studio Services extension.",
-	"publisher": "fabrikamdev",
+	"publisher": "Edvins Antonovs",
 	"targets": [
 		{
 			"id": "Microsoft.VisualStudio.Services"
